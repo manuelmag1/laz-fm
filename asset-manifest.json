@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/laz-fm/static/css/main.21846ba6.css",
-    "main.js": "/laz-fm/static/js/main.b45e6cb2.js",
+    "main.js": "/laz-fm/static/js/main.e6eefcfd.js",
     "static/media/Logo.mp4": "/laz-fm/static/media/Logo.2c933ea3866dd1d0a5ae.mp4",
     "static/media/Logo2.mp4": "/laz-fm/static/media/Logo2.3714917c8f5709c462fc.mp4",
     "static/media/1.jpg": "/laz-fm/static/media/1.9b2421a470bb10177d64.jpg",
     "static/media/3.jpg": "/laz-fm/static/media/3.689429d7daa232a52d2e.jpg",
     "static/media/2.jpg": "/laz-fm/static/media/2.811b3e9922a664391a18.jpg",
     "static/media/botero.png": "/laz-fm/static/media/botero.af6b306fea8338ed82af.png",
+    "static/media/4.jpg": "/laz-fm/static/media/4.b9e860623dc4fcd82a7f.jpg",
     "static/media/5.jpg": "/laz-fm/static/media/5.894729149e143f6e12a1.jpg",
     "static/media/dirt.jpg": "/laz-fm/static/media/dirt.093be2980e824586197e.jpg",
-    "static/media/4.jpg": "/laz-fm/static/media/4.f44470f056a4993220a6.jpg",
+    "static/media/app.jpg": "/laz-fm/static/media/app.e8de7ad65fd0aad6929c.jpg",
     "static/media/planet.png": "/laz-fm/static/media/planet.216c1420e2ee03a7508f.png",
-    "static/media/pablo.jpg": "/laz-fm/static/media/pablo.30b4f985edac053f4c1c.jpg",
     "static/media/fashion.jpg": "/laz-fm/static/media/fashion.d4eff1d4fc4603a7c8b8.jpg",
     "static/media/kche.png": "/laz-fm/static/media/kche.172f109d2d8c0807612e.png",
+    "static/media/bembe.jpg": "/laz-fm/static/media/bembe.cce930b7d0f322b0235b.jpg",
     "static/media/brand.jpg": "/laz-fm/static/media/brand.5261f35d583c09ff4aab.jpg",
     "static/media/mag.png": "/laz-fm/static/media/mag.787ce9341f8fe5db55a2.png",
-    "static/media/bembe.jpg": "/laz-fm/static/media/bembe.cce930b7d0f322b0235b.jpg",
     "index.html": "/laz-fm/index.html",
     "main.21846ba6.css.map": "/laz-fm/static/css/main.21846ba6.css.map",
-    "main.b45e6cb2.js.map": "/laz-fm/static/js/main.b45e6cb2.js.map"
+    "main.e6eefcfd.js.map": "/laz-fm/static/js/main.e6eefcfd.js.map"
   },
   "entrypoints": [
     "static/css/main.21846ba6.css",
-    "static/js/main.b45e6cb2.js"
+    "static/js/main.e6eefcfd.js"
   ]
 }
