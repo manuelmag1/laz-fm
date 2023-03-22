@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/laz-fm/static/css/main.21846ba6.css",
-    "main.js": "/laz-fm/static/js/main.e6eefcfd.js",
+    "main.css": "/laz-fm/static/css/main.bec3ff04.css",
+    "main.js": "/laz-fm/static/js/main.18f14e0a.js",
     "static/media/Logo.mp4": "/laz-fm/static/media/Logo.2c933ea3866dd1d0a5ae.mp4",
     "static/media/Logo2.mp4": "/laz-fm/static/media/Logo2.3714917c8f5709c462fc.mp4",
     "static/media/1.jpg": "/laz-fm/static/media/1.9b2421a470bb10177d64.jpg",
@@ -19,11 +19,11 @@
     "static/media/brand.jpg": "/laz-fm/static/media/brand.5261f35d583c09ff4aab.jpg",
     "static/media/mag.png": "/laz-fm/static/media/mag.787ce9341f8fe5db55a2.png",
     "index.html": "/laz-fm/index.html",
-    "main.21846ba6.css.map": "/laz-fm/static/css/main.21846ba6.css.map",
-    "main.e6eefcfd.js.map": "/laz-fm/static/js/main.e6eefcfd.js.map"
+    "main.bec3ff04.css.map": "/laz-fm/static/css/main.bec3ff04.css.map",
+    "main.18f14e0a.js.map": "/laz-fm/static/js/main.18f14e0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.21846ba6.css",
-    "static/js/main.e6eefcfd.js"
+    "static/css/main.bec3ff04.css",
+    "static/js/main.18f14e0a.js"
   ]
 }
