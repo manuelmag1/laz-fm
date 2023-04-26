@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/laz-fm/static/css/main.2e816b0d.css",
-    "main.js": "/laz-fm/static/js/main.1457cfa0.js",
-    "static/media/Logo.mp4": "/laz-fm/static/media/Logo.2c933ea3866dd1d0a5ae.mp4",
-    "static/media/Logo2.mp4": "/laz-fm/static/media/Logo2.3714917c8f5709c462fc.mp4",
-    "static/media/1.jpg": "/laz-fm/static/media/1.9b2421a470bb10177d64.jpg",
-    "static/media/3.jpg": "/laz-fm/static/media/3.689429d7daa232a52d2e.jpg",
-    "static/media/2.jpg": "/laz-fm/static/media/2.811b3e9922a664391a18.jpg",
-    "static/media/4.jpg": "/laz-fm/static/media/4.f0da6dbed84c624de1a2.jpg",
-    "static/media/botero.png": "/laz-fm/static/media/botero.af6b306fea8338ed82af.png",
-    "static/media/5.jpg": "/laz-fm/static/media/5.894729149e143f6e12a1.jpg",
-    "static/media/dirt.jpg": "/laz-fm/static/media/dirt.093be2980e824586197e.jpg",
-    "static/media/app.jpg": "/laz-fm/static/media/app.e8de7ad65fd0aad6929c.jpg",
-    "static/media/planet.png": "/laz-fm/static/media/planet.216c1420e2ee03a7508f.png",
-    "static/media/fashion.jpg": "/laz-fm/static/media/fashion.d4eff1d4fc4603a7c8b8.jpg",
-    "static/media/kche.png": "/laz-fm/static/media/kche.172f109d2d8c0807612e.png",
-    "static/media/bembe.jpg": "/laz-fm/static/media/bembe.cce930b7d0f322b0235b.jpg",
-    "static/media/brand.jpg": "/laz-fm/static/media/brand.5261f35d583c09ff4aab.jpg",
-    "static/media/mag.png": "/laz-fm/static/media/mag.787ce9341f8fe5db55a2.png",
-    "index.html": "/laz-fm/index.html",
-    "main.2e816b0d.css.map": "/laz-fm/static/css/main.2e816b0d.css.map",
-    "main.1457cfa0.js.map": "/laz-fm/static/js/main.1457cfa0.js.map"
+    "main.css": "/static/css/main.d457df01.css",
+    "main.js": "/static/js/main.61ff9f5f.js",
+    "static/media/Logo.mp4": "/static/media/Logo.e178ba04c423fc7ba05c.mp4",
+    "static/media/Logo2.mp4": "/static/media/Logo2.e154b45d055b06a5ff7e.mp4",
+    "static/media/3.jpg": "/static/media/3.689429d7daa232a52d2e.jpg",
+    "static/media/mag.png": "/static/media/mag.d9795d5d79d0c936266a.png",
+    "static/media/2.jpg": "/static/media/2.811b3e9922a664391a18.jpg",
+    "static/media/4.jpg": "/static/media/4.e2e54b10b644d2295b64.jpg",
+    "static/media/1.jpg": "/static/media/1.5a80c1829b523e09f3f9.jpg",
+    "static/media/botero.png": "/static/media/botero.af6b306fea8338ed82af.png",
+    "static/media/5.jpg": "/static/media/5.894729149e143f6e12a1.jpg",
+    "static/media/dirt.jpg": "/static/media/dirt.093be2980e824586197e.jpg",
+    "static/media/app.jpg": "/static/media/app.e8de7ad65fd0aad6929c.jpg",
+    "static/media/planet.png": "/static/media/planet.216c1420e2ee03a7508f.png",
+    "static/media/fashion.jpg": "/static/media/fashion.d4eff1d4fc4603a7c8b8.jpg",
+    "static/media/kche.png": "/static/media/kche.172f109d2d8c0807612e.png",
+    "static/media/bembe.jpg": "/static/media/bembe.cce930b7d0f322b0235b.jpg",
+    "static/media/brand.jpg": "/static/media/brand.5261f35d583c09ff4aab.jpg",
+    "index.html": "/index.html",
+    "main.d457df01.css.map": "/static/css/main.d457df01.css.map",
+    "main.61ff9f5f.js.map": "/static/js/main.61ff9f5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e816b0d.css",
-    "static/js/main.1457cfa0.js"
+    "static/css/main.d457df01.css",
+    "static/js/main.61ff9f5f.js"
   ]
 }
