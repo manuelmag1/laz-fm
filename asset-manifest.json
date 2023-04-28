@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.d95096b5.css",
-    "main.js": "/static/js/main.dfeab255.js",
+    "main.js": "/static/js/main.2dda91f0.js",
     "static/media/Logo.mp4": "/static/media/Logo.e178ba04c423fc7ba05c.mp4",
     "static/media/Logo2.mp4": "/static/media/Logo2.e154b45d055b06a5ff7e.mp4",
     "static/media/mag.png": "/static/media/mag.d9795d5d79d0c936266a.png",
     "static/media/2.jpg": "/static/media/2.7d9c18512511db5869d4.jpg",
+    "static/media/iPhone-z2.png": "/static/media/iPhone-z2.099e516d2155e58e84fa.png",
     "static/media/1.jpg": "/static/media/1.8c77f30e9cae6a7487c5.jpg",
     "static/media/4.jpg": "/static/media/4.e2e54b10b644d2295b64.jpg",
     "static/media/3.jpg": "/static/media/3.5e92ee3ab135d271d9d5.jpg",
@@ -20,10 +21,10 @@
     "static/media/brand.jpg": "/static/media/brand.5261f35d583c09ff4aab.jpg",
     "index.html": "/index.html",
     "main.d95096b5.css.map": "/static/css/main.d95096b5.css.map",
-    "main.dfeab255.js.map": "/static/js/main.dfeab255.js.map"
+    "main.2dda91f0.js.map": "/static/js/main.2dda91f0.js.map"
   },
   "entrypoints": [
     "static/css/main.d95096b5.css",
-    "static/js/main.dfeab255.js"
+    "static/js/main.2dda91f0.js"
   ]
 }
